@@ -61,8 +61,8 @@ It is ideal for students, researchers, and anyone interested in machine learning
 ## Installation
 
 1. **Clone the repository:**
-~git clone https://github.com/SafaruzzamanShovo/Graduate-Admission-Prediction-using-ANN.git~
+              git clone https://github.com/SafaruzzamanShovo/Graduate-Admission-Prediction-using-ANN.git
 2. **Install dependencies:**
-pip install pandas numpy scikit-learn tensorflow
+             pip install pandas numpy scikit-learn tensorflow
 3. **(Optional) Use Google Colab for easy Google Drive integration.**
 
