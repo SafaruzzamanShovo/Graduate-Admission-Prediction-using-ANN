@@ -1,4 +1,4 @@
-<div align="justify">
+<div align="left">
 
 # 🎓 Graduate Admission Prediction using ANN
 
