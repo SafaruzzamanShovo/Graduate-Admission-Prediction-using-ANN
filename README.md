@@ -2,8 +2,8 @@
 
 # 🎓 Graduate Admission Prediction using ANN
 
-Predict graduate admission chances with deep learning!  
-A complete workflow for data science beginners and advanced users.
+Predict graduate admission chances with deep learning! A complete workflow for data science beginners and advanced users.
+
 
 </div>
 
