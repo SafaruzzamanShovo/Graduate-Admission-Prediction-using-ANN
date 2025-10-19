@@ -66,7 +66,6 @@ It is ideal for students, researchers, and anyone interested in machine learning
              pip install pandas numpy scikit-learn tensorflow
 3. **(Optional) Use Google Colab for easy Google Drive integration.**
 
-   3. **(Optional) Use Google Colab for easy Google Drive integration.**
 
 ---
 
